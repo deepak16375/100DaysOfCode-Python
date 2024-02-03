@@ -19,7 +19,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 
 ## How to Connect
 
-👋 Let's connect and learn together! Feel free to reach out or follow my journey on Twitter..(https://twitter.com/devwithdeepak)!
+👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
 
 ## Resources
 
