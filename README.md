@@ -12,11 +12,14 @@ This repository is a log of my daily progress, projects, and the exciting things
 - ✨ Printed 'Hello, World!' in Python.
 - 📚 Explored variables, strings, and string manipulation.
 - 🎸 Created a fun Band Name Generator project.
-  
+### Day 2:
+- 💡 Explored Python data types, tackled type errors, and mastered F-strings.
+- ➕ Built a Tip Calculator for effortless bill-splitting!
+
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
-
+- [Tip Calculator](https://replit.com/@devwithdeepak/tip-calculator-start?run=true#main.py): Easily split bills among friends.
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
