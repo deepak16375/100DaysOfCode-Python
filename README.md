@@ -15,11 +15,16 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 2:
 - 💡 Explored Python data types, tackled type errors, and mastered F-strings.
 - ➕ Built a Tip Calculator for effortless bill-splitting!
+### Day 3:
+- 🌐 Delved into conditional statements and logical operators.
+- 🧠 Tackled exercises to solidify concepts.
+- 🗺️ Crafted an adventurous Treasure Island project!
 
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
 - [Tip Calculator](https://replit.com/@devwithdeepak/tip-calculator-start?run=true#main.py): Easily split bills among friends.
+- [Treasure Island](https://replit.com/@devwithdeepak/treasure-island-end?run=true#main.py): An interactive project for exploring the mysterious island!
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
