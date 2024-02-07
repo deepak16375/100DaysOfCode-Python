@@ -19,12 +19,18 @@ This repository is a log of my daily progress, projects, and the exciting things
 - 🌐 Delved into conditional statements and logical operators.
 - 🧠 Tackled exercises to solidify concepts.
 - 🗺️ Crafted an adventurous Treasure Island project!
+### Day 4:
+- 🎲 Explored randomization and lists.
+- 🤘 Created an exciting Rock-Paper-Scissors game!
+
 
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
 - [Tip Calculator](https://replit.com/@devwithdeepak/tip-calculator-start?run=true#main.py): Easily split bills among friends.
 - [Treasure Island](https://replit.com/@devwithdeepak/treasure-island-end?run=true#main.py): An interactive project for exploring the mysterious island!
+- [Rock-Paper-Scissors](https://replit.com/@devwithdeepak/rock-paper-scissors-end#main.py): A thrilling game of choices!
+
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
