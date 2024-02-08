@@ -22,6 +22,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 4:
 - 🎲 Explored randomization and lists.
 - 🤘 Created an exciting Rock-Paper-Scissors game!
+### Day 5:
+- 🔄 Explored loops and their usage in Python, especially with lists.
+- 🚀 Created a project: Password Generator for enhanced security!
 
 
 ## Projects
@@ -30,6 +33,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Tip Calculator](https://replit.com/@devwithdeepak/tip-calculator-start?run=true#main.py): Easily split bills among friends.
 - [Treasure Island](https://replit.com/@devwithdeepak/treasure-island-end?run=true#main.py): An interactive project for exploring the mysterious island!
 - [Rock-Paper-Scissors](https://replit.com/@devwithdeepak/rock-paper-scissors-end#main.py): A thrilling game of choices!
+- [Password Generator](https://replit.com/@devwithdeepak/password-generator-end#main.py): Enhance security with randomly generated passwords!
 
 ## How to Connect
 
