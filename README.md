@@ -25,6 +25,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 5:
 - 🔄 Explored loops and their usage in Python, especially with lists.
 - 🚀 Created a project: Password Generator for enhanced security!
+### Day 6:
+- 🎉 Delved into the world of functions and mastered indentation in Python.
+- 💻 Conquered exciting code challenges, including solving the maze!
 
 
 ## Projects
@@ -34,6 +37,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Treasure Island](https://replit.com/@devwithdeepak/treasure-island-end?run=true#main.py): An interactive project for exploring the mysterious island!
 - [Rock-Paper-Scissors](https://replit.com/@devwithdeepak/rock-paper-scissors-end#main.py): A thrilling game of choices!
 - [Password Generator](https://replit.com/@devwithdeepak/password-generator-end#main.py): Enhance security with randomly generated passwords!
+- [Maze Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json): Navigated through coding challenges, solving the maze!
 
 ## How to Connect
 
