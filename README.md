@@ -28,6 +28,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 6:
 - 🎉 Delved into the world of functions and mastered indentation in Python.
 - 💻 Conquered exciting code challenges, including solving the maze!
+### Day 7:
+- 🔄 Practiced previous concepts - loops (for, while), if/else, lists, range.
+- 🎮 Crafted a Hangman project, combining learned concepts into a fun game!
 
 
 ## Projects
@@ -38,7 +41,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Rock-Paper-Scissors](https://replit.com/@devwithdeepak/rock-paper-scissors-end#main.py): A thrilling game of choices!
 - [Password Generator](https://replit.com/@devwithdeepak/password-generator-end#main.py): Enhance security with randomly generated passwords!
 - [Maze Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json): Navigated through coding challenges, solving the maze!
-
+- [Hangman](https://replit.com/@devwithdeepak/Day-7-Hangman-Final#main.py): A classic word-guessing game with Python!
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
