@@ -34,6 +34,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 8:
 - 🔄 Deepened understanding of functions, arguments, parameters, and keyword parameters.
 - 💼 Completed exercises and built a Caesar Cipher project, exploring encryption techniques!
+## Day 9:
+- Explored dictionaries and nesting.
+- Applied knowledge through exercises.
+- Crafted a Secret Auction project: Bid anonymously, find the highest bidder, and declare the winner! 🏆💰
 
 
 ## Projects
@@ -46,6 +50,8 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Maze Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json): Navigated through coding challenges, solving the maze!
 - [Hangman](https://replit.com/@devwithdeepak/Day-7-Hangman-Final#main.py): A classic word-guessing game with Python!
 - [Caesar Cipher](https://replit.com/@devwithdeepak/caesar-cipher-4-end#main.py): Encrypt and decrypt messages using this classic cipher technique!
+- [Secret Auction](https://replit.com/@devwithdeepak/blind-auction-completed#main.py): Anonymously bid, find the highest bidder, and declare the winner!
+
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
