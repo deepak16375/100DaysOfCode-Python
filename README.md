@@ -43,7 +43,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 - 🚩 Learned about flags for more efficient coding.
 - ♻️ Delved into the fascinating world of recursion.
 - 🖩 Created a Calculator project, applying new concepts.
-
+## Day 11:
+- Created a fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
+- Revised key Python concepts through practical application.
 
 ## Projects
 
@@ -57,6 +59,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Caesar Cipher](https://replit.com/@devwithdeepak/caesar-cipher-4-end#main.py): Encrypt and decrypt messages using this classic cipher technique!
 - [Secret Auction](https://replit.com/@devwithdeepak/blind-auction-completed#main.py): Anonymously bid, find the highest bidder, and declare the winner!
 - [Calculator](https://replit.com/@devwithdeepak/calculator-final#main.py) A Python project incorporating the day's learnings for a practical application.
+- [Blackjack game](https://replit.com/@devwithdeepak/blackjack-final#main.py)a fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
 
 ## How to Connect
 
