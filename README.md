@@ -47,9 +47,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 - Created a fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
 - Revised key Python concepts through practical application.
 ## Day 12:
--Explored the concept of scope in Python.
--Engaged in quizzes and exercises to reinforce understanding.
--Developed a Number Guessing Game project.
+- 🌐 Explored the concept of scope in Python.
+- 💼 Engaged in quizzes and exercises to reinforce understanding.
+- 🎮 Developed a Number Guessing Game project.
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
