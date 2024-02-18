@@ -46,7 +46,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 11:
 - Created a fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
 - Revised key Python concepts through practical application.
-
+## Day 12:
+-Explored the concept of scope in Python.
+-Engaged in quizzes and exercises to reinforce understanding.
+-Developed a Number Guessing Game project.
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -58,9 +61,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Hangman](https://replit.com/@devwithdeepak/Day-7-Hangman-Final#main.py): A classic word-guessing game with Python!
 - [Caesar Cipher](https://replit.com/@devwithdeepak/caesar-cipher-4-end#main.py): Encrypt and decrypt messages using this classic cipher technique!
 - [Secret Auction](https://replit.com/@devwithdeepak/blind-auction-completed#main.py): Anonymously bid, find the highest bidder, and declare the winner!
-- [Calculator](https://replit.com/@devwithdeepak/calculator-final#main.py) A Python project incorporating the day's learnings for a practical application.
-- [Blackjack game](https://replit.com/@devwithdeepak/blackjack-final#main.py)a fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
-
+- [Calculator](https://replit.com/@devwithdeepak/calculator-final#main.py): A Python project incorporating the day's learnings for a practical application.
+- [Blackjack game](https://replit.com/@devwithdeepak/blackjack-final#main.py): A fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
+- [Number Guessing Game](https://replit.com/@devwithdeepak/blackjack-final#main.py): Challenge yourself to guess the correct number!
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
