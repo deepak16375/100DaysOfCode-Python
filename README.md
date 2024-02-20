@@ -50,6 +50,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 - 🌐 Explored the concept of scope in Python.
 - 💼 Engaged in quizzes and exercises to reinforce understanding.
 - 🎮 Developed a Number Guessing Game project.
+## Day 13:
+- 🐞 Focused on debugging skills, practicing with real-world code examples.
+- 🧠 Engaged in quizzes and exercises to sharpen debugging proficiency.
+
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
