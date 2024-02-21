@@ -53,6 +53,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 13:
 - 🐞 Focused on debugging skills, practicing with real-world code examples.
 - 🧠 Engaged in quizzes and exercises to sharpen debugging proficiency.
+## Day 14:
+- 🎮 Created a Higher-Lower game using random Instagram account data.
+- 🔄 Improved understanding of functions, loops, and conditionals.
+- 🏆 Scored points by guessing which Instagram account has more followers!
 
 ## Projects
 
@@ -68,6 +72,8 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Calculator](https://replit.com/@devwithdeepak/calculator-final#main.py): A Python project incorporating the day's learnings for a practical application.
 - [Blackjack game](https://replit.com/@devwithdeepak/blackjack-final#main.py): A fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
 - [Number Guessing Game](https://replit.com/@devwithdeepak/blackjack-final#main.py): Challenge yourself to guess the correct number!
+- [Higher-Lower Game](https://replit.com/@devwithdeepak/higher-lower-final#main.py): Guess which Instagram account has more followers!
+
 ## How to Connect
 
 👋 Let's connect and learn together! Feel free to reach out or follow my journey on [Twitter](https://twitter.com/devwithdeepak)!
