@@ -57,6 +57,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 - 🎮 Created a Higher-Lower game using random Instagram account data.
 - 🔄 Improved understanding of functions, loops, and conditionals.
 - 🏆 Scored points by guessing which Instagram account has more followers!
+### Day 15:
+- Set up Python locally using PyCharm IDE for a more personalized coding environment.
+- Created a Coffee Machine project, simulating order processing, payments, and resource management.
 
 ## Projects
 
@@ -73,6 +76,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Blackjack game](https://replit.com/@devwithdeepak/blackjack-final#main.py): A fun Blackjack game, exploring concepts like functions, lists, and conditional statements.
 - [Number Guessing Game](https://replit.com/@devwithdeepak/blackjack-final#main.py): Challenge yourself to guess the correct number!
 - [Higher-Lower Game](https://replit.com/@devwithdeepak/higher-lower-final#main.py): Guess which Instagram account has more followers!
+- [Coffee Machine](https://replit.com/@devwithdeepak/coffe-machine#main.py): Simulate a coffee machine, taking orders, processing payments, and managing resources.
 
 ## How to Connect
 
