@@ -7,7 +7,9 @@ Welcome to my coding journey as I take on the #100DaysOfCode challenge, dedicate
 - Set up Python locally using PyCharm IDE for a more personalized coding environment.
 - Created a Coffee Machine project, simulating order processing, payments, and resource management.
 
-- [Higher-Lower Game](https://replit.com/@devwithdeepak/higher-lower-final#main.py): Guess which Instagram account has more followers!
+- [Coffee Machine](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day%2015): Simulate a coffee machine, taking orders, processing payments, and managing resources.
+
+
 Stay tuned for daily updates as I navigate through Python and tackle exciting projects! 🎉✨
 
 Happy coding! 🚀

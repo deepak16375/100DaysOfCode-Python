@@ -60,6 +60,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 ### Day 15:
 - Set up Python locally using PyCharm IDE for a more personalized coding environment.
 - Created a Coffee Machine project, simulating order processing, payments, and resource management.
+### Day 16:
+- Dived into Object-Oriented Programming (OOP) in Python.
+- Explored Python packages like Turtle and PrettyTable for creative and tabular visualizations.
 
 ## Projects
 
