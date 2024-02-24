@@ -5,7 +5,7 @@ Welcome to my coding journey as I take on the #100DaysOfCode challenge, dedicate
 ## Day 15 Highlights:
 
 - Set up Python locally using PyCharm IDE for a more personalized coding environment.
-- Created a Coffee Machine project, simulating order processing, payments, and resource management.
+- 🎮 Created a Coffee Machine project, simulating order processing, payments, and resource management.
 
 - [Coffee Machine](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day%2015): Simulate a coffee machine, taking orders, processing payments, and managing resources.
 
