@@ -8,30 +8,30 @@ This repository is a log of my daily progress, projects, and the exciting things
 
 ## Daily Updates
 
-### Day 1:
+## Day 1:
 - ✨ Printed 'Hello, World!' in Python.
 - 📚 Explored variables, strings, and string manipulation.
 - 🎸 Created a fun Band Name Generator project.
-### Day 2:
+## Day 2:
 - 💡 Explored Python data types, tackled type errors, and mastered F-strings.
 - ➕ Built a Tip Calculator for effortless bill-splitting!
-### Day 3:
+## Day 3:
 - 🌐 Delved into conditional statements and logical operators.
 - 🧠 Tackled exercises to solidify concepts.
 - 🗺️ Crafted an adventurous Treasure Island project!
-### Day 4:
+## Day 4:
 - 🎲 Explored randomization and lists.
 - 🤘 Created an exciting Rock-Paper-Scissors game!
-### Day 5:
+## Day 5:
 - 🔄 Explored loops and their usage in Python, especially with lists.
 - 🚀 Created a project: Password Generator for enhanced security!
-### Day 6:
+## Day 6:
 - 🎉 Delved into the world of functions and mastered indentation in Python.
 - 💻 Conquered exciting code challenges, including solving the maze!
-### Day 7:
+## Day 7:
 - 🔄 Practiced previous concepts - loops (for, while), if/else, lists, range.
 - 🎮 Crafted a Hangman project, combining learned concepts into a fun game!
-### Day 8:
+## Day 8:
 - 🔄 Deepened understanding of functions, arguments, parameters, and keyword parameters.
 - 💼 Completed exercises and built a Caesar Cipher project, exploring encryption techniques!
 ## Day 9:
@@ -57,13 +57,16 @@ This repository is a log of my daily progress, projects, and the exciting things
 - 🎮 Created a Higher-Lower game using random Instagram account data.
 - 🔄 Improved understanding of functions, loops, and conditionals.
 - 🏆 Scored points by guessing which Instagram account has more followers!
-### Day 15:
+## Day 15:
 - Set up Python locally using PyCharm IDE for a more personalized coding environment.
 - Created a Coffee Machine project, simulating order processing, payments, and resource management.
-### Day 16:
+## Day 16:
 - Dived into Object-Oriented Programming (OOP) in Python.
 - Explored Python packages like Turtle and PrettyTable for creative and tabular visualizations.
-
+## Day 17:
+- Explored classes, methods, constructors, and the init function in Python.
+- Crafted a Trivia Game project, combining new OOP knowledge.
+- Fun learning unlocking new coding levels! 🎮✨
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -80,6 +83,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Number Guessing Game](https://replit.com/@devwithdeepak/blackjack-final#main.py): Challenge yourself to guess the correct number!
 - [Higher-Lower Game](https://replit.com/@devwithdeepak/higher-lower-final#main.py): Guess which Instagram account has more followers!
 - [Coffee Machine](https://replit.com/@devwithdeepak/coffe-machine#main.py): Simulate a coffee machine, taking orders, processing payments, and managing resources.
+- [Trivia Game](https://replit.com/@devwithdeepak/quiz-game-final#main.py): Test your knowledge with this fun trivia game, built with Python's OOP concepts.
 
 ## How to Connect
 
