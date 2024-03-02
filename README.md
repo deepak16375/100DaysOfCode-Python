@@ -67,6 +67,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 - Explored classes, methods, constructors, and the init function in Python.
 - Crafted a Trivia Game project, combining new OOP knowledge.
 - Fun learning unlocking new coding levels! 🎮✨
+## Day 18:
+- 🖌️ Explored the Turtle module, creating artistic projects and exercises.
+- 🎨 Crafted a Hirst painting project using Turtle for Python-based art!
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -84,6 +87,8 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Higher-Lower Game](https://replit.com/@devwithdeepak/higher-lower-final#main.py): Guess which Instagram account has more followers!
 - [Coffee Machine](https://replit.com/@devwithdeepak/coffe-machine#main.py): Simulate a coffee machine, taking orders, processing payments, and managing resources.
 - [Trivia Game](https://replit.com/@devwithdeepak/quiz-game-final#main.py): Test your knowledge with this fun trivia game, built with Python's OOP concepts.
+- [Hirst Painting](https://replit.com/@devwithdeepak/hirstpainting-final#main.py): Create a beautiful painting using Python's Turtle module!
+
 
 ## How to Connect
 
