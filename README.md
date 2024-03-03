@@ -70,6 +70,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 18:
 - 🖌️ Explored the Turtle module, creating artistic projects and exercises.
 - 🎨 Crafted a Hirst painting project using Turtle for Python-based art!
+## Day 19:
+- Learned about Higher Order Functions, object states, and instances in Python.
+- Applied knowledge through exercises and built a fun game using the Turtle library.
+
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -88,6 +92,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Coffee Machine](https://replit.com/@devwithdeepak/coffe-machine#main.py): Simulate a coffee machine, taking orders, processing payments, and managing resources.
 - [Trivia Game](https://replit.com/@devwithdeepak/quiz-game-final#main.py): Test your knowledge with this fun trivia game, built with Python's OOP concepts.
 - [Hirst Painting](https://replit.com/@devwithdeepak/hirstpainting-final#main.py): Create a beautiful painting using Python's Turtle module!
+- [Fun Turtle Game](https://replit.com/@devwithdeepak/day-19#main.py): An entertaining game developed using Turtle and applying Higher Order Functions.
 
 
 ## How to Connect
