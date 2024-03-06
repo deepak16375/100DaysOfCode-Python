@@ -73,7 +73,9 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 19:
 - Learned about Higher Order Functions, object states, and instances in Python.
 - Applied knowledge through exercises and built a fun game using the Turtle library.
-
+## Day 20:
+- Revised Python concepts for a solid understanding.
+- Strengthened coding skills through various exercises.
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
