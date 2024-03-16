@@ -76,6 +76,11 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 20:
 - Revised Python concepts for a solid understanding.
 - Strengthened coding skills through various exercises.
+## Day 21:
+- 🐍 Mastered OOP concepts like inheritance and slicing in Python.
+- 🎮 Crafted a Snake Game project, slithering through code challenges!
+- 💻 Back on track after a short break. Let's code! 🚀
+
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -95,6 +100,8 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Trivia Game](https://replit.com/@devwithdeepak/quiz-game-final#main.py): Test your knowledge with this fun trivia game, built with Python's OOP concepts.
 - [Hirst Painting](https://replit.com/@devwithdeepak/hirstpainting-final#main.py): Create a beautiful painting using Python's Turtle module!
 - [Fun Turtle Game](https://replit.com/@devwithdeepak/day-19#main.py): An entertaining game developed using Turtle and applying Higher Order Functions.
+- [Snake Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day21): Crafted a classic Snake Game project, mastering OOP concepts in Python!
+
 
 
 ## How to Connect
