@@ -83,6 +83,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 22:
 - 🏓 Crafted an engaging Pong game using Python, integrating all learned concepts.
 - Excited for the journey ahead! 🚀✨
+## Day 23:
+- Explored more about OOP, practiced all the concept.
+- Crafted a Turtle Crossing Game project for fun and practice.
+
 ## Projects
 
 - [Band Name Generator](https://replit.com/@devwithdeepak/band-name-generator-start#main.py): A simple project generating band names based on user input.
@@ -104,6 +108,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Fun Turtle Game](https://replit.com/@devwithdeepak/day-19#main.py): An entertaining game developed using Turtle and applying Higher Order Functions.
 - [Snake Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day21): Crafted a classic Snake Game project, mastering OOP concepts in Python!
 - [Pong Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day22): Crafted an engaging Pong game using Python, integrating all learned concepts.
+- [Turtle Crossing Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day23): A fun project inspired by the classic Frogger game, made using Python's Turtle module.
 
 
 
