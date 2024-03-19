@@ -86,6 +86,10 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 23:
 - Explored more about OOP, practiced all the concept.
 - Crafted a Turtle Crossing Game project for fun and practice.
+### Day 24:
+- 🛣️ Learned about working with local files and directories in Python.
+- Excited for the journey ahead! 🚀✨
+
 
 ## Projects
 
