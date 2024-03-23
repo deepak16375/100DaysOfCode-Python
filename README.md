@@ -86,9 +86,13 @@ This repository is a log of my daily progress, projects, and the exciting things
 ## Day 23:
 - Explored more about OOP, practiced all the concept.
 - Crafted a Turtle Crossing Game project for fun and practice.
-### Day 24:
+## Day 24:
 - 🛣️ Learned about working with local files and directories in Python.
 - Excited for the journey ahead! 🚀✨
+## Day 25:
+- Explored pandas library.
+- Learned dataframes, series, and CSV handling.
+- Built a States Guessing Game project.
 
 
 ## Projects
@@ -113,6 +117,7 @@ This repository is a log of my daily progress, projects, and the exciting things
 - [Snake Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day21): Crafted a classic Snake Game project, mastering OOP concepts in Python!
 - [Pong Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day22): Crafted an engaging Pong game using Python, integrating all learned concepts.
 - [Turtle Crossing Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day23): A fun project inspired by the classic Frogger game, made using Python's Turtle module.
+- [States Guessing Game](https://github.com/deepak16375/100DaysOfCode-Python/tree/main/Day25):Guess the states of the U.S. in this interactive Python project
 
 
 
